@@ -1,10 +1,11 @@
 {
-    "name": "moyi/umeng-open-api",
-    "description": "友盟数据统计Open-api",
+    "name": "hooker001/umeng-open-api",
+    "description": "友盟open api",
+    "license": "MIT",
     "authors": [
         {
-            "name": "wengxiaotong",
-            "email": "345561446@qq.com"
+            "name": "hooker001",
+            "email": "y1-hooker@ik8s.com"
         }
     ],
     "autoload": {
@@ -14,5 +15,6 @@
             "moyi\\umeng\\" : "src/com/umeng/"
         }
     },
+    "minimum-stability": "dev",
     "require": {}
 }
